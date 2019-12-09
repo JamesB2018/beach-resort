@@ -8,7 +8,7 @@ export default class Services extends Component {
         icon: <FaCocktail />,
         title: "Free Cocktails",
         info:
-          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias molestias eius libero?"
+          "Endless free cocktails just for your drinking pleasure. Feel free to choose from any of our 25 different kinds."
       },
       {
         icon: <FaHiking />,

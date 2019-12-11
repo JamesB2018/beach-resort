@@ -8,25 +8,25 @@ export default class Services extends Component {
         icon: <FaCocktail />,
         title: "Free Cocktails",
         info:
-          "Endless free cocktails just for your drinking pleasure. Feel free to choose from any of our 25 different kinds."
+          "Free cocktails just for your drinking pleasure. Feel free to choose from any of our 25 different kinds."
       },
       {
         icon: <FaHiking />,
         title: "Endless Hiking",
         info:
-          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias molestias eius libero?"
+          "Be sure to explore the amazing and scenic hiking trails we have to offer! We provide gear and equipment for you to enjoy hiking as long as you like. "
       },
       {
         icon: <FaShuttleVan />,
         title: "Free Shuttle",
         info:
-          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias molestias eius libero?"
+          "Free shuttle rides around all of our local restaurants and be sure to take the scenic route to get the most out of your ride."
       },
       {
         icon: <FaBeer />,
         title: "Strongest Beer",
         info:
-          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias molestias eius libero?"
+          "Strong beer like you have never had before! The beer is locally grown and brewed for a more high rich flavor."
       }
     ]
   };
